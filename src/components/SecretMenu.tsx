@@ -140,7 +140,7 @@ const SecretGrid = styled.div`
 `
 
 export default function SecretMenu() {
-    const [secretCode, setSecretCode] = useState<string[]>([]);
+    const [_secretCode, setSecretCode] = useState<string[]>([]);
     const [menuVisible, setMenuVisible] = useState(false);
     const validCode = ['s', 'c', 'h', 'o', 'l', 'a', 'r'];
 
