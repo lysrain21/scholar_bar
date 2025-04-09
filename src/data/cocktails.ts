@@ -29,7 +29,7 @@ export const cocktails: Cocktail[] = [
         price: 19.9,
         description: '金色龙舌兰与鲜橙汁的完美融合，石榴糖浆沉淀形成绚丽日出层次',
         image: 'https://images.unsplash.com/photo-1560512823-829485b8bf18?q=80&w=500&auto=format&fit=crop'
-    }
+    },
     {
         id: 4,
         name: '玛格丽特（纯饮）',
