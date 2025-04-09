@@ -32,10 +32,17 @@ export const cocktails: Cocktail[] = [
     },
     {
         id: 4,
-        name: '玛格丽特（纯饮）',
-        price: 19.9,
+        name: '玛格丽特',
+        price: 39.9,
         description: '经典纯饮酒，龙舌兰、青柠汁与橙味力娇酒的完美平衡，盐边增添风味',
         image: 'https://images.unsplash.com/photo-1556855810-ac404aa91e85?q=80&w=500&auto=format&fit=crop'
+    },
+    {
+        id: 5,
+        name: 'Old Parr纯饮酒',
+        price: 19.9,
+        description: '醇厚威士忌的经典纯饮体验，独特的橡木桶陈年风味，冰块轻碰杯壁的声音是最好的邀约',
+        image: 'https://images.unsplash.com/photo-1573551089778-46a7abc39d9f?q=80&w=500&auto=format&fit=crop'
     }
 
 ]
