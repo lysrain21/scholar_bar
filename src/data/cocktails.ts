@@ -14,35 +14,35 @@ export const cocktails: Cocktail[] = [
         name: '长岛冰茶',
         price: 39.9,
         description: '五种烈酒的危险混合，带来无与伦比的迷醉感',
-        image: 'https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=500&auto=format&fit=crop'
+        image: '/长岛冰茶.jpg'
     },
     {
         id: 2,
         name: '金汤力',
         price: 19.9,
         description: '传统英式金酒与清爽汤力水的经典组合，柠檬点缀',
-        image: 'https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=500&auto=format&fit=crop'
+        image: '/金汤力.jpg'
     },
     {
         id: 3,
         name: '龙舌兰日出',
         price: 19.9,
         description: '金色龙舌兰与鲜橙汁的完美融合，石榴糖浆沉淀形成绚丽日出层次',
-        image: 'https://images.unsplash.com/photo-1560512823-829485b8bf18?q=80&w=500&auto=format&fit=crop'
+        image: '/龙舌兰日出.jpg'
     },
     {
         id: 4,
         name: '玛格丽特',
         price: 39.9,
         description: '经典纯饮酒，龙舌兰、青柠汁与橙味力娇酒的完美平衡，盐边增添风味',
-        image: 'https://images.unsplash.com/photo-1556855810-ac404aa91e85?q=80&w=500&auto=format&fit=crop'
+        image: '/玛格丽特.jpg'
     },
     {
         id: 5,
         name: 'Old Parr纯饮酒',
         price: 19.9,
         description: '醇厚威士忌的经典纯饮体验，独特的橡木桶陈年风味，冰块轻碰杯壁的声音是最好的邀约',
-        image: 'https://images.unsplash.com/photo-1573551089778-46a7abc39d9f?q=80&w=500&auto=format&fit=crop'
+        image: '/oldparr.jpg'
     }
 
 ]
